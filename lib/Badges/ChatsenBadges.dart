@@ -13,7 +13,7 @@ import 'package:flutter_chatsen_irc/Twitch.dart' as twitch;
 //   }
 
 //   void refresh() async {
-//     var response = await http.get(Uri.parse('https://raw.githubusercontent.com/chatsen/resources/master/assets/data.json')); // https://cdn.jsdelivr.net/gh/chatsen/resources/assets/data.json'));
+//     var response = await http.get(Uri.parse('https://raw.githubusercontent.com/chatsen/resources/master/assets/data.json')); // https://cdn.jsdelivr.net/gh/chatsasdasden/resources/assets/data.json'));
 //     var jsonResponse = jsonDecode(utf8.decode(response.bodyBytes));
 //     emit(resources.Data.fromJson(jsonResponse));
 //   }
